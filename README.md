@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hello world 👋
+### I'm currently learning how to do all of this 🤓
+### So far it's been fun to learn the ropes, but soon I will be a wizard 👾
+### I am am currently a senior at Wake Forest University but my roots are in Colorado
+### My pronouns are He/Him/His
+### My first concert was Hannah Montana and the Jonas Brothers 🐛
 <!--
 **Kknaut01/Kknaut01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
